@@ -14,6 +14,7 @@ let cardsEl = document.querySelector("#cards-el");
 let playerEl = document.getElementById("player-el");
 playerEl.textContent = player.name + ": $"+ player.chips;
 
+//begin the game by initilizing the values of first 2 cards and variables to store result of isAlive, respresenting whether the player is still in the game & hasBlackJack, for if a player wins
 function startGame() {
         hasBlackJack = false;
         isAlive= true;
@@ -25,6 +26,7 @@ function startGame() {
     renderGame();
 }
 
+//rendering the cards picked and checking for blackjack
 function renderGame() {
    
     cardsEl.textContent = `Cards:`;
@@ -59,6 +61,7 @@ function newcard() {
        
 }
 
+//generating a card at random from the stack
 function getRandomCard() {
     let randomCard = Math.floor(Math.random() * 13) +1 ;
     if (randomCard>10) {

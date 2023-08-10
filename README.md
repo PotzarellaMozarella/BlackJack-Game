@@ -4,6 +4,8 @@ Experience the thrill of Blackjack with my interactive game project. Immerse you
 
 You can check it out on this link: [BlackJack](https://black-jack-game-alpha.vercel.app/) 
 
+![BlackJack Screenshot](BlackJack.png)
+
 ### Built using
 * javascript
 * html

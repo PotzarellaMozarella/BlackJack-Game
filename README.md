@@ -1,16 +1,8 @@
 # BlackJack game 
 
-Enabling users to access online consultations with experts/doctors, practice mindfulness via guided meditation, and receive personalized mental health recommendations through a user-friendly questionnaire.
+Experience the thrill of Blackjack with my interactive game project. Immerse yourself in the excitement as you strategize your way to victory. The game kicks off with a dynamic interface displaying your cards and a running sum. Make critical decisions as you aim to hit 21 without going over. The outcome unfolds in real-time, with messages guiding your choices and notifying you of your progress. Whether you're chasing the elusive Blackjack or carefully managing your cards, this game offers an engaging experience that showcases my programming skills. Get ready to test your luck and skills – play the Blackjack game now!
 
 You can check it out on this link: [BlackJack](https://black-jack-game-alpha.vercel.app/) 
-
-### Features
-* Users & Experts can signup/signin and create their profiles and edit it
-* User can practice various guided meditation tools
-* User can find the right expert and book an appointment with them
-* User can answer a user-friendly questionnaire and get personalised recommendations
-* Experts can check their currently set slots and set appointment slots availability for any date
-* Users & experts can check their upcoming appointments based on the date and time slots
 
 ### Built using
 * javascript
